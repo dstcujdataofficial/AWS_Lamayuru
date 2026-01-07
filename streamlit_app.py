@@ -163,7 +163,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Google Sheet CSV link
-CSV_URL = "https://docs.google.com/spreadsheets/d/1TojaADjIS3SA74Q8vEOWKWZIhNPp8cGWiiTVvuPmPS4/edit?usp=drive_link"
+CSV_URL = "https://docs.google.com/spreadsheets/d/1TojaADjIS3SA74Q8vEOWKWZIhNPp8cGWiiTVvuPmPS4/edit?gid=2093188993#gid=2093188993"
 
 # ---------------- Sticky Header ----------------
 # ---------------- Sticky Header ----------------
