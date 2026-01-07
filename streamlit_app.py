@@ -511,6 +511,8 @@ if solar_col in plot_df.columns:
         """,
         unsafe_allow_html=True
     )
+    # --- Info note ---
+    st.caption("<span style='color:red'>* This panel will work for only selected days", unsafe_allow_html=True)
 
     # ---------------- Relative Humidity Plot ----------------
     rh_col = "RH (in Fractio)"
